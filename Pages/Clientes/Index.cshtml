@@ -1,0 +1,28 @@
+﻿@page
+@model MyApp.Namespace.IndexModel
+@{
+}
+<div>
+    <h1>Clientes</h1><hr>
+    <a asp-page="Create">Crear Nuevo</a>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombres</th>
+                <th>Apellidos</th>
+                <th>DNI</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var fam in Model.ListClientes){
+            <tr>
+                <td>@fam.IdCliente</td>
+                <td>@fam.Nombres</td>
+                <td>@fam.Apellidos</td>
+                <td>@fam.Dni</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
