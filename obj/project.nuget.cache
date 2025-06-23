@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6mBc/hPVv0=",
+  "dgSpecHash": "wlC3200UYyY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\elkra\\OneDrive\\Escritorio\\crudClientes\\crudClientes.csproj",
+  "projectFilePath": "D:\\JIJIJIJA\\3er semestre\\ING. DE SOFTWARE Y METODOLOGIAS AGILES - TEC\\crudClientes\\crudClientes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elkra\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\elkra\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

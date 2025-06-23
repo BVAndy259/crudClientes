@@ -4716,11 +4716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elkra\\OneDrive\\Escritorio\\crudClientes\\crudClientes.csproj",
+      "projectUniqueName": "D:\\JIJIJIJA\\3er semestre\\ING. DE SOFTWARE Y METODOLOGIAS AGILES - TEC\\crudClientes\\crudClientes.csproj",
       "projectName": "crudClientes",
-      "projectPath": "C:\\Users\\elkra\\OneDrive\\Escritorio\\crudClientes\\crudClientes.csproj",
+      "projectPath": "D:\\JIJIJIJA\\3er semestre\\ING. DE SOFTWARE Y METODOLOGIAS AGILES - TEC\\crudClientes\\crudClientes.csproj",
       "packagesPath": "C:\\Users\\elkra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elkra\\OneDrive\\Escritorio\\crudClientes\\obj\\",
+      "outputPath": "D:\\JIJIJIJA\\3er semestre\\ING. DE SOFTWARE Y METODOLOGIAS AGILES - TEC\\crudClientes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
